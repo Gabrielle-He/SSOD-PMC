@@ -1,1 +1,3 @@
 # SSOD-PMC
+
+Official code for "Part-Aware Multi-Dimensional Consistency for Semi-Supervised Detection of Industrial Composite Facilities in Remote Sensing Images" Code is coming soon....
